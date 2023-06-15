@@ -3,10 +3,6 @@ Loading and Storing Canine Captures
 
 Github: https://github.com/MrValentinolearningcurve/API-Driven-Doggie-Album
 
-Loading and Storing Canine Captures
-
-Photo by Simona Kidriu010d on Pexels.com
-
 สร้างโปรแกรมในการดึงข้อมูลจากที่หนึ่ง และนำไปไว้อีกที่หนึ่ง ซึ่งในเวิร์คชอปนี้จะสมมุติว่าเราเป็นคนที่ชื่นชอบสุนัข และอยากที่จะเก็บลิ้งค์รูปของสุนัขต่าง ๆ ไว้ เพื่อเอาไปเปิดดูเล่นเพื่อคลายเครียด หรือเพื่อใช้ทำวิจัยเกี่ยวกับการวิเคราะห์รูปสุนัขในอนาคต ซึ่งส่วนประกอบของโปรแกรมเราจะมีประมาณนี้
 
 รูปสุนัข - เราจะดึงมาจาก Dog API จากเว็บ https://dog.ceo/dog-api/
